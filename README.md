@@ -1,2 +1,2 @@
-# java101-not-ortalamas-ödevi
+# java101-not-ortalaması-ödevi
 not ortalaması hesaplama java
